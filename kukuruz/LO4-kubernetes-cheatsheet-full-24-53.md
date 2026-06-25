@@ -1,3 +1,5 @@
+docker.io/library/nginx:1.25
+
 # Kubernetes Deployments - LO4
 
 ## Create a Deployment
