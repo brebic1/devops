@@ -1,5 +1,4 @@
-docker.io/library/nginx:1.25
-source <(kubectl completion bash)
+# docker.io/library/nginx:1.25 || source <(kubectl completion bash)
 
 # Kubernetes Deployments - LO4
 
